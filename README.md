@@ -51,15 +51,6 @@ The system integrates multiple hardware modules and demonstrates:
 
 ---
 
-## Repository Structure
-4-DOF-RobotArm/
-├── 3D_프린트_파일/ # 3D printed parts for the robot arm
-├── robotarm_final.ino # Final Arduino control code
-├── robotarm_test.cpp # Test and experimental code
-└── README.md
-
----
-
 ## Key Features
 - 4-axis robotic arm control
 - PWM-based servo motor actuation
